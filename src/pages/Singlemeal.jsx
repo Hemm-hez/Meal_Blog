@@ -34,7 +34,7 @@ const Singlemeal = () => {
         })
       }
       else{
-        setMeal(null)
+        setMeal()
       }
     }
     catch (error){
