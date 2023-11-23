@@ -11,7 +11,6 @@ const Homepage = () => {
     <div>
       <Herosection/>
       <Searchform/>
-      <MealBox/>
     </div>
   )
 }
